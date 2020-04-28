@@ -1,0 +1,20 @@
+﻿Debug\Resources.obj : warning LNK4042: objeto especificado más de una vez; omitidos los sobrantes
+IG1App.obj : error LNK2019: símbolo externo __imp__glutInitWindowSize@8 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutInitDisplayMode@4 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutMainLoop@0 sin resolver al que se hace referencia en la función "public: void __thiscall IG1App::run(void)" (?run@IG1App@@QAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutPostRedisplay@0 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::key(unsigned char,int,int)" (?key@IG1App@@IAEXEHH@Z)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutSwapBuffers@0 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::display(void)const " (?display@IG1App@@IBEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutKeyboardFunc@4 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutSpecialFunc@4 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutReshapeFunc@4 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutDisplayFunc@4 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutGetModifiers@0 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::specialKey(int,int,int)" (?specialKey@IG1App@@IAEXHHH@Z)
+IG1App.obj : error LNK2019: símbolo externo __imp____glutInitWithExit@12 sin resolver al que se hace referencia en la función _glutInit_ATEXIT_HACK@8
+IG1App.obj : error LNK2019: símbolo externo __imp____glutCreateWindowWithExit@8 sin resolver al que se hace referencia en la función _glutCreateWindow_ATEXIT_HACK@4
+IG1App.obj : error LNK2019: símbolo externo __imp__glutLeaveMainLoop@0 sin resolver al que se hace referencia en la función "public: void __thiscall IG1App::close(void)" (?close@IG1App@@QAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutSetOption@8 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutInitContextVersion@8 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutInitContextFlags@4 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+IG1App.obj : error LNK2019: símbolo externo __imp__glutInitContextProfile@4 sin resolver al que se hace referencia en la función "protected: void __thiscall IG1App::iniWinOpenGL(void)" (?iniWinOpenGL@IG1App@@IAEXXZ)
+G:\2do\2doCuatrimestre\IG\practicas\Practica2\freeglut\lib\x64\freeglut.lib : warning LNK4272: el tipo de máquina de biblioteca 'x64' está en conflicto con el tipo de máquina de destino 'x86'
+G:\2do\2doCuatrimestre\IG\practicas\Practica2\bin\IG1AppDebug.exe : fatal error LNK1120: 17 externos sin resolver
